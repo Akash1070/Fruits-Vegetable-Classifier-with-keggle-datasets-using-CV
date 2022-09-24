@@ -3,6 +3,8 @@
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 ![Steamlit](https://img.shields.io/badge/Library-Steamlit-blue.svg)
 
+Deployed on: http://localhost:8501/
+
 Download Additional Files :
 
 VENV: https://drive.google.com/drive/folders/1QR2BDBX0VHW8N_4efsRNtMh7AB3NCRf3?usp=sharing
